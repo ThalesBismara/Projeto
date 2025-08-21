@@ -1,3 +1,4 @@
+<img width="628" height="460" alt="2" src="https://github.com/user-attachments/assets/628d84ea-3f90-44ac-ab70-6efcd128918d" />
 Coffee Cupcake with Chantilly
 A simple HTML and CSS project showcasing a recipe page for a delicious coffee cupcake with whipped cream.
 
